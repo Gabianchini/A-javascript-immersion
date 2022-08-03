@@ -1,6 +1,6 @@
 //Métodos 
 //Propriedades que servem como funções, ouseja as açòes do objeto
-//Invocamos os métofos da mesma maneira que as funções
+//Invocamos os métodos da mesma maneira que as funções
 //sintaxe:
 let cachorro = {
     latir: function(){
@@ -9,7 +9,7 @@ let cachorro = {
 }
 
 cachorro.latir();
-//normalmento os métofos interagem com osobjetos
+//normalmento os métodos interagem com osobjetos
 //Até mudando os valores das suas propriedades para corresponder a logica do programa dessenvolvido
 //ex:
 let pessoa = {

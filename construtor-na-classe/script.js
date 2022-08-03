@@ -1,5 +1,5 @@
 //Construtor na classe
-//Com a versao do ES6, uma possibilidade de criar uma classe(objeto)
+//Com a versao do ES6, uma possibilidade de criar uma classe
 //com construtor foi adicionada
 //Então não precisamos mais criar por meoi de uma função
 //ex:
