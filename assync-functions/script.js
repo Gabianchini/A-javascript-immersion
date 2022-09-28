@@ -48,3 +48,4 @@ let criarId = genTest();
 console.log(criarId.next().value);
 console.log(criarId.next().value);
 console.log(criarId.next().value);
+
